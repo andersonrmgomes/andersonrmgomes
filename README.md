@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Anderson R. M. Gomes
+# 👋 Olá! Eu sou o Anderson Gomes
 
 ## 💻 Sobre mim
 Sou professor de Desenvolvimento de Sistemas, apaixonado por tecnologia, com experiência em programação, redes e segurança da informação.
